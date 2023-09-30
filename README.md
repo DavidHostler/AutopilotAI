@@ -2,7 +2,7 @@
 A revisited edition of my original self-driving AI portfolio project from early 2021. It is meant to provide a temporary autopilot for PC gamers who need to go AFK for brief periods of time. 
 
 
-![alt text]([https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b8af477bc10309189eda4edb777eb674.jpg))
+![alt text] ([https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b8af477bc10309189eda4edb777eb674.jpg))
 
 #Description and Theory 
 
