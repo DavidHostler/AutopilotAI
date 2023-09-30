@@ -1,0 +1,240 @@
+2022-09-18 10:52:40,630: Key.up:
+2022-09-18 10:52:41,179: Key.down:
+2022-09-18 10:53:29,203: Key.down:
+2022-09-18 10:53:29,542: Key.up:
+2022-09-18 10:53:40,676: Key.up:
+2022-09-18 10:53:47,636: 'd':
+2022-09-18 10:53:48,450: 's':
+2022-09-18 10:53:48,819: 'a':
+2022-09-18 10:53:49,443: Key.up:
+2022-09-18 10:53:49,952: Key.up:
+2022-09-18 10:53:50,606: Key.up:
+2022-09-18 10:53:53,587: Key.up:
+2022-09-18 10:53:54,246: Key.up:
+2022-09-18 10:53:54,505: Key.down:
+2022-09-18 10:53:54,740: Key.down:
+2022-09-18 10:53:54,880: Key.down:
+2022-09-18 10:53:55,090: Key.down:
+2022-09-18 10:53:55,449: Key.down:
+2022-09-18 10:53:55,784: Key.down:
+2022-09-18 10:53:56,273: Key.down:
+2022-09-18 10:53:57,226: Key.up:
+2022-09-18 10:55:25,476: Key.up:
+2022-09-18 10:55:25,851: Key.down:
+2022-09-18 10:55:26,391: 'd':
+2022-09-18 10:55:27,159: 'a':
+2022-09-18 10:55:27,588: 'd':
+2022-09-18 10:55:27,838: 'f':
+2022-09-18 10:55:28,127: 'f':
+2022-09-18 10:55:28,172: 'd':
+2022-09-18 10:56:13,487: Key.up:
+2022-09-18 10:56:13,752: Key.up:
+2022-09-18 10:56:14,860: Key.down:
+2022-09-18 10:56:15,315: Key.down:
+2022-09-18 10:58:34,594: 's':
+2022-09-18 10:58:34,938: 'd':
+2022-09-18 10:58:35,347: 'a':
+2022-09-18 10:58:35,807: 's':
+2022-09-18 10:58:36,321: 'd':
+2022-09-18 10:59:03,415: 's':
+2022-09-18 10:59:04,079: 'd':
+2022-09-18 10:59:04,763: 'a':
+2022-09-18 10:59:05,462: 'j':
+2022-09-18 10:59:05,641: 'i':
+2022-09-18 10:59:06,671: Key.up:
+2022-09-18 10:59:07,734: Key.up:
+2022-09-18 10:59:08,112: Key.down:
+2022-09-18 10:59:41,786: 'd':
+2022-09-18 10:59:42,385: 'f':
+2022-09-18 10:59:42,825: 'a':
+2022-09-18 10:59:43,464: 's':
+2022-09-18 10:59:43,868: 'f':
+2022-09-18 10:59:47,742: Key.up:
+2022-09-18 10:59:48,117: Key.down:
+2022-09-18 10:59:48,421: Key.down:
+2022-09-18 10:59:49,410: Key.up:
+2022-09-18 10:59:49,979: Key.down:
+2022-09-18 11:00:49,463: 'd':
+2022-09-18 11:00:51,165: 'd':
+2022-09-18 11:00:51,794: 'a':
+2022-09-18 11:00:54,141: 'f':
+2022-09-18 11:00:55,229: Key.ctrl:
+2022-09-18 11:00:55,439: 'z':
+2022-09-18 11:00:56,881: 'f':
+2022-09-18 11:01:00,790: Key.up:
+2022-09-18 11:01:01,095: Key.down:
+2022-09-18 11:01:01,843: 'a':
+2022-09-18 11:01:58,231: Key.up:
+2022-09-18 11:01:58,805: Key.down:
+2022-09-18 11:01:59,435: Key.up:
+2022-09-18 11:01:59,963: Key.down:
+2022-09-18 11:02:00,262: Key.up:
+2022-09-18 11:02:01,206: 'd':
+2022-09-18 11:02:01,725: 'd':
+2022-09-18 11:02:02,309: Key.up:
+2022-09-18 11:02:02,889: Key.down:
+2022-09-18 11:02:03,108: Key.down:
+2022-09-18 11:02:03,877: Key.up:
+2022-09-18 11:02:04,041: Key.up:
+2022-09-18 11:02:04,346: Key.up:
+2022-09-18 11:02:04,521: Key.up:
+2022-09-18 11:02:04,740: Key.up:
+2022-09-18 11:02:05,054: Key.up:
+2022-09-18 11:02:05,450: Key.up:
+2022-09-18 11:02:05,704: Key.down:
+2022-09-18 11:02:05,884: Key.down:
+2022-09-18 11:02:06,038: Key.down:
+2022-09-18 11:02:06,188: Key.down:
+2022-09-18 11:02:06,333: Key.down:
+2022-09-18 11:02:06,587: Key.down:
+2022-09-18 11:02:06,792: Key.down:
+2022-09-18 11:02:06,947: Key.down:
+2022-09-18 11:02:07,675: Key.up:
+2022-09-18 11:02:08,105: Key.up:
+2022-09-18 11:02:09,013: Key.up:
+2022-09-18 11:02:09,558: 'd':
+2022-09-18 11:02:10,885: Key.down:
+2022-09-18 11:02:11,185: Key.up:
+2022-09-18 11:02:11,594: Key.down:
+2022-09-18 11:02:11,789: Key.down:
+2022-09-18 11:02:11,969: Key.down:
+2022-09-18 11:02:16,606: Key.up:
+2022-09-18 11:02:16,901: Key.up:
+2022-09-18 11:02:17,125: Key.up:
+2022-09-18 11:02:17,555: Key.up:
+2022-09-18 11:02:17,770: Key.up:
+2022-09-18 11:02:17,944: Key.up:
+2022-09-18 11:02:18,114: Key.up:
+2022-09-18 11:02:18,523: Key.up:
+2022-09-18 11:02:18,888: Key.down:
+2022-09-18 11:02:19,052: Key.down:
+2022-09-18 11:02:19,217: Key.down:
+2022-09-18 11:02:19,368: Key.down:
+2022-09-18 11:02:19,527: Key.down:
+2022-09-18 11:02:33,391: Key.up:
+2022-09-18 11:03:34,149: Key.up:
+2022-09-18 11:03:34,742: Key.down:
+2022-09-18 11:03:35,247: Key.up:
+2022-09-18 11:03:35,780: Key.down:
+2022-09-18 11:03:37,019: 'a':
+2022-09-18 11:03:37,992: 'a':
+2022-09-18 11:03:38,611: 'a':
+2022-09-18 11:03:39,130: Key.up:
+2022-09-18 11:03:39,944: Key.down:
+2022-09-18 11:03:40,488: Key.up:
+2022-09-18 11:04:05,404: 'a':
+2022-09-18 11:04:06,178: Key.up:
+2022-09-18 11:04:07,011: Key.down:
+2022-09-18 11:04:07,295: Key.down:
+2022-09-18 11:04:07,510: Key.down:
+2022-09-18 11:04:08,289: Key.up:
+2022-09-18 11:04:08,774: 'd':
+2022-09-18 11:04:09,162: 'a':
+2022-09-18 11:04:28,502: 'd':
+2022-09-18 11:04:29,136: 'f':
+2022-09-18 11:04:29,535: 'g':
+2022-09-18 11:04:29,969: 'a':
+2022-09-18 11:11:54,314: pickle loaded: /home/dolan/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi:
+2022-09-18 11:11:54,473: pickle loaded: /home/dolan/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi:
+2022-09-18 11:11:54,594: diff parser start:
+2022-09-18 11:11:54,595: line_lengths old: 1; new: 1:
+2022-09-18 11:11:54,595: -> code[replace] old[1:1] new[1:1]:
+2022-09-18 11:11:54,595: parse_part from 1 to 1 (to 0 in part parser):
+2022-09-18 11:11:54,596: diff parser end:
+2022-09-18 11:11:54,817: diff parser start:
+2022-09-18 11:11:54,818: line_lengths old: 1; new: 1:
+2022-09-18 11:11:54,818: -> code[replace] old[1:1] new[1:1]:
+2022-09-18 11:11:54,819: parse_part from 1 to 1 (to 0 in part parser):
+2022-09-18 11:11:54,819: diff parser end:
+2022-09-18 11:14:43,838: 'd':
+2022-09-18 11:14:44,922: 'f':
+2022-09-18 11:14:48,511: 'a':
+2022-09-18 11:17:22,689: Key.up:
+2022-09-18 11:17:22,689: Unhandled exception in listener callback:
+Traceback (most recent call last):
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/xorg.py", line 470, in _handler
+    self._handle(self._display_stop, event)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/keyboard/_xorg.py", line 564, in _handle
+    self.on_press(key)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "/tmp/ipykernel_9783/980335463.py", line 10, in onPress
+    if current == Key.esc:
+NameError: name 'current' is not defined
+2022-09-18 11:17:36,965: Key.up:
+2022-09-18 11:17:36,966: Unhandled exception in listener callback:
+Traceback (most recent call last):
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/xorg.py", line 470, in _handler
+    self._handle(self._display_stop, event)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/keyboard/_xorg.py", line 564, in _handle
+    self.on_press(key)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "/tmp/ipykernel_9783/871436217.py", line 15, in onPress
+    print(current)
+NameError: name 'current' is not defined
+2022-09-18 11:17:49,495: Key.up:
+2022-09-18 11:17:49,495: Unhandled exception in listener callback:
+Traceback (most recent call last):
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 228, in inner
+    return f(self, *args, **kwargs)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/xorg.py", line 470, in _handler
+    self._handle(self._display_stop, event)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/keyboard/_xorg.py", line 564, in _handle
+    self.on_press(key)
+  File "/home/dolan/anaconda3/lib/python3.9/site-packages/pynput/_util/__init__.py", line 144, in inner
+    if f(*args) is False:
+  File "/tmp/ipykernel_9783/2495320750.py", line 15, in onPress
+    print(chr(key))
+TypeError: an integer is required (got type Key)
+2022-09-18 11:17:55,930: Key.down:
+2022-09-18 11:17:56,563: Key.up:
+2022-09-18 11:17:57,666: Key.down:
+2022-09-18 11:17:58,445: Key.up:
+2022-09-18 11:17:59,045: Key.up:
+2022-09-18 11:17:59,498: Key.down:
+2022-09-18 11:18:00,043: Key.up:
+2022-09-18 11:29:29,280: diff parser start:
+2022-09-18 11:29:29,281: line_lengths old: 1; new: 96:
+2022-09-18 11:29:29,281: -> code[replace] old[1:1] new[1:96]:
+2022-09-18 11:29:29,302: parse_part from 1 to 96 (to 95 in part parser):
+2022-09-18 11:29:29,303: diff parser end:
+2022-09-18 11:29:36,950: diff parser start:
+2022-09-18 11:29:36,951: line_lengths old: 96; new: 96:
+2022-09-18 11:29:36,951: -> code[equal] old[1:95] new[1:95]:
+2022-09-18 11:29:36,952: copy old[1:95] new[1:95]:
+2022-09-18 11:29:36,953: -> code[replace] old[96:96] new[96:96]:
+2022-09-18 11:29:36,953: parse_part from 96 to 96 (to 95 in part parser):
+2022-09-18 11:29:36,954: diff parser end:
+2022-09-18 11:30:01,403: diff parser start:
+2022-09-18 11:30:01,404: line_lengths old: 96; new: 96:
+2022-09-18 11:30:01,404: -> code[equal] old[1:95] new[1:95]:
+2022-09-18 11:30:01,405: copy old[1:95] new[1:95]:
+2022-09-18 11:30:01,405: -> code[replace] old[96:96] new[96:96]:
+2022-09-18 11:30:01,406: parse_part from 96 to 96 (to 95 in part parser):
+2022-09-18 11:30:01,406: diff parser end:
+2022-09-18 11:31:11,223: diff parser start:
+2022-09-18 11:31:11,223: line_lengths old: 96; new: 36:
+2022-09-18 11:31:11,223: -> code[equal] old[1:35] new[1:35]:
+2022-09-18 11:31:11,224: copy old[1:95] new[1:35]:
+2022-09-18 11:31:11,224: -> code[replace] old[36:96] new[36:36]:
+2022-09-18 11:31:11,225: parse_part from 36 to 36 (to 35 in part parser):
+2022-09-18 11:31:11,225: diff parser end:
+2022-09-18 12:02:04,060: diff parser start:
+2022-09-18 12:02:04,197: line_lengths old: 36; new: 125:
+2022-09-18 12:02:04,197: -> code[equal] old[1:2] new[1:2]:
+2022-09-18 12:02:04,233: parse_part from 1 to 125 (to 124 in part parser):
+2022-09-18 12:02:04,233: -> code[replace] old[3:3] new[3:3]:
+2022-09-18 12:02:04,233: -> code[equal] old[4:16] new[4:16]:
+2022-09-18 12:02:04,233: -> code[replace] old[17:17] new[17:18]:
+2022-09-18 12:02:04,234: -> code[equal] old[18:27] new[19:28]:
+2022-09-18 12:02:04,234: -> code[insert] old[28:27] new[29:34]:
+2022-09-18 12:02:04,234: -> code[equal] old[28:35] new[35:42]:
+2022-09-18 12:02:04,234: -> code[replace] old[36:36] new[43:125]:
+2022-09-18 12:02:04,234: diff parser end:
+2022-09-18 12:02:04,389: pickle loaded: /home/dolan/anaconda3/lib/python3.9/typing.py:
+2022-09-18 12:02:04,458: pickle loaded: /home/dolan/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi:
